@@ -2,5 +2,5 @@
 
 
 module Findable
-  
+
 end
