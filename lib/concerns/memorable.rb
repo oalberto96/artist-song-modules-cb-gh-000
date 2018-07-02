@@ -5,6 +5,6 @@ module Memorable
   end
 
   def reset_all
-    @@songs.clear
+    self.all.clear
   end
 end
